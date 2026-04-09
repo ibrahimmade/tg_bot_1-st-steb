@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A.Ibrahim\\Desktop\\Project\\Tgbot\\Tgbot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A.Ibrahim\\Desktop\\Project\\Tgbot\\Tgbot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A.Ibrahim\\Desktop\\Project\\Tgbot\\Tgbot.csproj",
+        "projectName": "Tgbot",
+        "projectPath": "C:\\Users\\A.Ibrahim\\Desktop\\Project\\Tgbot\\Tgbot.csproj",
+        "packagesPath": "C:\\Users\\A.Ibrahim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A.Ibrahim\\Desktop\\Project\\Tgbot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A.Ibrahim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Telegram.bot": {
+              "target": "Package",
+              "version": "[22.9.5.3, )"
+            },
+            "dotenv.net": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "mysql.data": {
+              "target": "Package",
+              "version": "[9.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -65,8 +65,8 @@ status            VARCHAR(50) DEFAULT 'надо выполнить'  -- Стат
 # 📦 Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone <https://github.com/ibrahimmade/tg_bot_1-st-steb>
+cd <tg_bot_1-st-steb>
 ```
 ### 2. Установка зависимостей
 ```bash
