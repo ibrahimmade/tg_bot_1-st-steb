@@ -31,7 +31,8 @@ MySqlConnectionStringBuilder builder = new()
 {
     Server = host,
     Database = database,
-    UserID = user
+    UserID = user,
+    Password = password
 };
 
 

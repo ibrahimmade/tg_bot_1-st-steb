@@ -46,3 +46,4 @@ C:\Users\A.Ibrahim\Desktop\Project\Tgbot\bin\Debug\net8.0\Microsoft.Extensions.O
 C:\Users\A.Ibrahim\Desktop\Project\Tgbot\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\A.Ibrahim\Desktop\Project\Tgbot\bin\Debug\net8.0\Telegram.Bot.dll
 C:\Users\A.Ibrahim\Desktop\Project\Tgbot\bin\Debug\net8.0\dotenv.net.dll
+C:\Users\A.Ibrahim\Desktop\Project\Tgbot\obj\Debug\net8.0\Tgbot.sourcelink.json
